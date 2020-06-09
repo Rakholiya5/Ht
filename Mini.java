@@ -3,5 +3,7 @@ class Mini{
 		System.out.println("Conflicts");
 
 		System.out.println("Conflicts1");
+
+		System.out.println("I am in merge");
 	}
 }
